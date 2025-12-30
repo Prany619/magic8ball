@@ -1,0 +1,36 @@
+<!--
+TO START THE GAME FROM THE BEGINNING, OPEN THE PAGE1 HTML FILE
+Open the magic8ball-server folder,
+Then open the public folder,
+Click page1.html
+-->
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Magic 8 Ball</title>
+    <link rel="stylesheet" href="page2.css">
+    <script src="Magic8Ball.js"></script>
+
+</head>
+<body>
+    <div class="ball">
+        <div class="whitecircle">
+            <p id="response">8</p>
+        </div>
+    </div>
+
+    <div class="inputfield">
+        <input type="text" id="clear" placeholder="Ask Me Anything">
+        <button id="askme" onclick="randomAnswer()">Enter</button>
+    </div>
+
+    <!--Play the click sound when user hits the enter button-->
+    <audio id="clickSound" src="clicksoundeffect.mp3"></audio>
+
+    <div class="questions">
+        <a href="file:///Users/prany619/Desktop/Group%20Project/page3.html">Frequently Asked Questions</a>
+    </div>
+</body>
+</html>

@@ -1,0 +1,27 @@
+Title of Project = Magic 8 Ball
+
+Members of Group = Aizah Sadiq (221444807)
+Members of Group = Pranav Gupta (221576319)
+Members of Group = Palaash Pandey (22138176)
+
+Aizah Sadiq Contributions:
+- Made the CSS part of the Magic 8 ball on all 3 pages on our project. 
+- Also heavily contributed on the wireframe part in Phase 1 of the group project
+- Made key buttons which connected all 3 pages of our porject together.
+
+Palaash Pandey's Contributions: 
+- Made the HTML part of Magic 8 ball on all 3 pages on our project
+- Lightly contributed on the wireframe part in Phase 1 of the group project
+- Made the script for the video for all 3 members for the documentation on the group project
+
+Pranav Gupta's Contributions 
+- Made the API in the 8 Ball for the group project
+- Lightly contributed on the wireframe in phase 1 of the group project
+- Made the javascript part of the Magic 8 ball on all 3 pages on the group project.
+
+Instructional Part;
+Palaash was on the call for the video, but used Aizah's mic to communicate as we were together for the video part.
+
+Changes Made:
+- We decided not to do "Past Questions", where the user is able to see all the questions they asked.
+- We also changed the entire design (CSS) compared to the one shown in the wireframe in phase 1.
